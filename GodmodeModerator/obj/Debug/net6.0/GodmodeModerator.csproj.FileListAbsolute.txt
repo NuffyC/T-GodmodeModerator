@@ -1,0 +1,13 @@
+E:\Servers\Plugins2024\AntiCheatV1\bin\Debug\net6.0\HttpServer.dll
+E:\Servers\Plugins2024\AntiCheatV1\bin\Debug\net6.0\GodmodeModerator.deps.json
+E:\Servers\Plugins2024\AntiCheatV1\bin\Debug\net6.0\GodmodeModerator.dll
+E:\Servers\Plugins2024\AntiCheatV1\bin\Debug\net6.0\GodmodeModerator.pdb
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\GodmodeModerator.csproj.AssemblyReference.cache
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\GodmodeModerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\GodmodeModerator.AssemblyInfoInputs.cache
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\GodmodeModerator.AssemblyInfo.cs
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\GodmodeModerator.csproj.CoreCompileInputs.cache
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\GodmodeModerator.dll
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\refint\GodmodeModerator.dll
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\GodmodeModerator.pdb
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\ref\GodmodeModerator.dll

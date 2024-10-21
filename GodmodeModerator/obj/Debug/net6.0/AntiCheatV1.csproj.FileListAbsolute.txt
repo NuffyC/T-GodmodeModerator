@@ -1,0 +1,13 @@
+E:\Servers\Plugins2024\AntiCheatV1\bin\Debug\net6.0\HttpServer.dll
+E:\Servers\Plugins2024\AntiCheatV1\bin\Debug\net6.0\AntiCheatV1.deps.json
+E:\Servers\Plugins2024\AntiCheatV1\bin\Debug\net6.0\AntiCheatV1.dll
+E:\Servers\Plugins2024\AntiCheatV1\bin\Debug\net6.0\AntiCheatV1.pdb
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\AntiCheatV1.csproj.AssemblyReference.cache
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\AntiCheatV1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\AntiCheatV1.AssemblyInfoInputs.cache
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\AntiCheatV1.AssemblyInfo.cs
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\AntiCheatV1.csproj.CoreCompileInputs.cache
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\AntiCheatV1.dll
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\refint\AntiCheatV1.dll
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\AntiCheatV1.pdb
+E:\Servers\Plugins2024\AntiCheatV1\obj\Debug\net6.0\ref\AntiCheatV1.dll
