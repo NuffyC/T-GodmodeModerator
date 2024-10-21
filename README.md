@@ -8,7 +8,7 @@ Permissions:
 
 Issues:
 
-Currently i haven't found a way to detect dodges, which is rare but sometimes can result in a false postive. (would need to dodge for 10s straight in a row)
-Haven't added a way to detect if a player has a cross necklace and intergrate that to the delay.
-The parry mechanic may cause a flase positive.
-Currently doesn't detect/work for pvp projectiles.
+-Currently i haven't found a way to detect dodges, which is rare but sometimes can result in a false postive. (would need to dodge for 10s straight in a row)
+-Haven't added a way to detect if a player has a cross necklace and intergrate that to the delay.
+-The parry mechanic may cause a flase positive.
+-Currently doesn't detect/work for pvp projectiles.
