@@ -3,7 +3,8 @@ A simple godmode detection plugin.
 
 Permissions:
 
-- ac.gmwl , Any group with this permisson will not get kicked if they have /godmode or other means of inf invulrability.
+- ac.gmwl
+(Any group with this permisson will not get kicked if they have /godmode or other means of inf invulrability)
 
 Issues:
 
